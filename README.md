@@ -12,27 +12,27 @@ Candidate Management: Easily manage and track the status of each candidate throu
 Job Posting Integration: Seamlessly integrate with various job posting platforms for efficient applicant sourcing.
 Automated Communication: Automated emails and notifications to keep candidates informed.
 Reporting and Analytics: Gain insights with comprehensive reports on the hiring process.
-##Installation
+## Installation
 
 To set up the ATS system on your machine, follow these steps:
 
-##Clone the Repository:
+## Clone the Repository:
  ```
 git clone https://github.com/shivakumar0002/ATS.git
  ```
-##Navigate to the Project Directory:
+## Navigate to the Project Directory:
  ```
 cd ATS
  ```
-##Install Dependencies:
+## Install Dependencies:
  ```
 pip install -r requirements.txt
  ```
-##Run the Application:
+## Run the Application:
  ```
 python app.py
  ```
-##Usage
+## Usage
 
 After installation, access the system via a web browser at http://localhost:PORT where PORT is the port number specified in your setup.
 
