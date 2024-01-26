@@ -17,18 +17,18 @@ Installation
 To set up the ATS system on your machine, follow these steps:
 
 Clone the Repository:
-bash
-Copy code
+
 git clone https://github.com/shivakumar0002/ATS.git
 Navigate to the Project Directory:
-bash
-Copy code
+
 cd ATS
+
 Install Dependencies:
-Copy code
+
 pip install -r requirements.txt
+
 Run the Application:
-Copy code
+
 python app.py
 Usage
 
